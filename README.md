@@ -21,6 +21,3 @@ Este proyecto implementa una API RESTful para la gestión de una cooperativa fin
 * FastAPI
 * MySQL (SQLAlchemy)
 * Uvicorn
-
-## 🌟 Política de Calidad
-"Proporcionamos servicios de Telecomunicaciones e Internet para hogares y emprendedores, apoyados por un equipo humano especializado y comprometido con la satisfacción de nuestros clientes, cumpliendo con el mejoramiento continuo a mediano plazo."
