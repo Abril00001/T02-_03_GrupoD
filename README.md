@@ -1,6 +1,7 @@
 # T02 - Grupo D: Sistema de Caja de Ahorros
 
-Este proyecto implementa una API RESTful para la gestión de una cooperativa financiera. Permite la administración de socios, cuentas, transacciones bancarias y cálculo de préstamos.
+Este proyecto implementa una API RESTful para la gestión de una cooperativa financiera. 
+Permite la administración de socios, cuentas, transacciones bancarias y cálculo de préstamos.
 
 ## 📋 Integrantes
 
